@@ -50,5 +50,4 @@ To add a new edition:
 
 ### Misc
 
-- The files `gitlab-ci.yml` and `pelicandevconf.py` are used for the development server at TU Berlin. They are not required for deployment on GitHub and may be removed in a future cleanup.
 - The deployment workflow for GitHub Pages is defined in `.github/workflows/deploy.yml`.
