@@ -30,7 +30,7 @@
     {% endif %}
     {% if paper.get("pid") %}
     {% set _pg = namespace(g=1) %}{% for t in POSTER_GROUP_SPLIT %}{% if paper["pid"] > t %}{% set _pg.g = loop.index + 1 %}{% endif %}{% endfor %}
-    <a class="tag paper-button" href="/program/#{{ POSTER_GROUP_ANCHORS[_pg.g - 1] }}" style="text-decoration: none !important;">
+    <a class="tag paper-button" href="/2026/program/#{{ POSTER_GROUP_ANCHORS[_pg.g - 1] }}" style="text-decoration: none !important;">
       <small style="filter: grayscale(100%);">📌</small>&nbsp;Group {{ _pg.g }}
     </a>
     {% endif %}

@@ -6,15 +6,15 @@ menu_title: Home
 ## News & Updates
 
 - SaTML 2026 has successfully concluded. We are now <a href="https://forms.gle/zBxnZrXEbWKL5Etk6">looking for a host for SaTML 2027</a>!
-- We offer [financial support](/attend) for participants who cannot cover registration or travel costs.
-- The [program](/program) for SaTML 2026 is [now available](/program).
+- We offer [financial support](/2026/attend) for participants who cannot cover registration or travel costs.
+- The [program](/2026/program) for SaTML 2026 is [now available](/2026/program).
 - [Apply to volunteer](https://docs.google.com/forms/d/e/1FAIpQLScXq18h3XyGucLCT8poeBUrs0f0EgBsBwQya9T7ImZaaNj6dA/viewform) and be considered for complimentary registration!
 - The <a href="https://cvent.me/50dM5d">registration page</a> for SaTML 2026 is now open! 
-- The list of accepted papers for SaTML 2026 is [now available](/accepted-papers). Congratulations to all authors!
-- There will be four [Competitions](/competitions) at SaTML 2026. We invite you to participate!
-- We updated the [Call for Papers](/call-for-papers) with a statement about LLM usage in submissions.
+- The list of accepted papers for SaTML 2026 is [now available](/2026/accepted-papers). Congratulations to all authors!
+- There will be four [Competitions](/2026/competitions) at SaTML 2026. We invite you to participate!
+- We updated the [Call for Papers](/2026/call-for-papers) with a statement about LLM usage in submissions.
 - The [Submission Site](https://hotcrp.satml.org) for papers is now finally online and open.
-- The [Call for Papers](/call-for-papers) and the [Call for Competitions](/call-for-competitions) are now available.
+- The [Call for Papers](/2026/call-for-papers) and the [Call for Competitions](/2026/call-for-competitions) are now available.
 - The website for SatML 2026 is now online!
 
 <!-- - The program for SaTML 2025 is <a href="program">now available</a>. We are looking forward to 3 days packed with secure and trustworthy learning. -->
@@ -32,7 +32,7 @@ All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to 
 
 ## Keynotes 
 
-We are excited to have the following keynote speakers in the SaTML 2026 program. For more details about each talk, please visit the [keynotes page](/keynotes).
+We are excited to have the following keynote speakers in the SaTML 2026 program. For more details about each talk, please visit the [keynotes page](/2026/keynotes).
 
 <style>
 .keynotes img {
@@ -47,23 +47,23 @@ We are excited to have the following keynote speakers in the SaTML 2026 program.
 
 <div class="columns keynotes has-text-centered">
   <div class="column">
-    <img src="/images/speakers/monika.jpg">
-    <br><a href="/keynotes/#keynote1"><b>Monika Henzinger</b></a>
+    <img src="/2026/images/speakers/monika.jpg">
+    <br><a href="/2026/keynotes/#keynote1"><b>Monika Henzinger</b></a>
     <br>Institute of Science and Technology&nbsp;Austria
   </div>
   <div class="column">
-    <img src="/images/speakers/moritz.jpg">
-    <br><a href="/keynotes/#keynote2"><b>Moritz Hardt</b></a>
+    <img src="/2026/images/speakers/moritz.jpg">
+    <br><a href="/2026/keynotes/#keynote2"><b>Moritz Hardt</b></a>
     <br>Max Planck Institute for Intelligent&nbsp;Systems
   </div>
     <div class="column">
-    <img src="/images/speakers/ashia.jpg">    
-    <br><a href="/keynotes/#keynote3"><b>Ashia Wilson</b></a>
+    <img src="/2026/images/speakers/ashia.jpg">    
+    <br><a href="/2026/keynotes/#keynote3"><b>Ashia Wilson</b></a>
     <br>Massachusetts Institute of&nbsp;Technology
   </div>
       <div class="column">
-    <img src="/images/speakers/lorenzo.jpg">    
-    <br><a href="/keynotes/#keynote4"><b>Lorenzo Cavallaro</b></a>
+    <img src="/2026/images/speakers/lorenzo.jpg">    
+    <br><a href="/2026/keynotes/#keynote4"><b>Lorenzo Cavallaro</b></a>
     <br>University College London
   </div>
 </div>
@@ -81,35 +81,35 @@ This conference will expand on the theoretical and practical understandings of v
 - Fairness and interpretability
 - Trustworthy data curation
 
-We solicit research papers, systematization of knowledge papers, and position papers (see [Call for Papers](/call-for-papers) for details). Furthermore, we invite proposals for our competition track (see [Call for Competitions](/call-for-competitions) for details).
+We solicit research papers, systematization of knowledge papers, and position papers (see [Call for Papers](/2026/call-for-papers) for details). Furthermore, we invite proposals for our competition track (see [Call for Competitions](/2026/call-for-competitions) for details).
 
 ## Venue
 
-IEEE SaTML 2026 will be hosted on the campus of the Technical University of Munich on March 23-25, 2026. See [Attending the Conference](/attend) for details.
+IEEE SaTML 2026 will be hosted on the campus of the Technical University of Munich on March 23-25, 2026. See [Attending the Conference](/2026/attend) for details.
 
 ## Sponsors and Supporters
 
 <div class="pt-4 columns is-vcentered is-centered">
   <div class="column is-one-third">
     <a href="https://tumthinktank.de/">
-      <img src="../images/sponsors/tum-tt.svg" width="70%" alt="TUM ThinkTank">
+      <img src="/2026/images/sponsors/tum-tt.svg" width="70%" alt="TUM ThinkTank">
     </a>
   </div>
   <div class="column is-one-third">
     <a href="https://www.bifold.berlin/">
-      <img src="../images/sponsors/bifold-logo.svg" width="85%" alt="BIFOLD">
+      <img src="/2026/images/sponsors/bifold-logo.svg" width="85%" alt="BIFOLD">
     </a>
   </div>
 </div>
 <div class="pt-4 columns is-vcentered is-centered">
   <div class="column is-one-third">
     <a href="http://google.org/">
-      <img src="../images/sponsors/google.png" width="70%" alt="Google">
+      <img src="/2026/images/sponsors/google.png" width="70%" alt="Google">
     </a>
   </div>
   <div class="column is-one-third">
     <a href="https://schmidtsciences.org">
-      <img src="../images/sponsors/schmidtsciences.png" width="85%" alt="Schmidt Sciences">
+      <img src="/2026/images/sponsors/schmidtsciences.png" width="85%" alt="Schmidt Sciences">
     </a>
   </div>
 </div>
