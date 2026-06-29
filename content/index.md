@@ -81,7 +81,7 @@ This conference will expand on the theoretical and practical understandings of v
 - Fairness and interpretability
 - Trustworthy data curation
 
-We solicit research papers, systematization of knowledge papers, and position papers (see [Call for Papers](call-for-papers) for details). Furthermore, we invite proposals for our competition track (see [Call for Competitions](/2026/call-for-competitions) for details).
+We solicit research papers, systematization of knowledge papers, and position papers (see [Call for Papers](/2026/call-for-papers) for details). Furthermore, we invite proposals for our competition track (see [Call for Competitions](/2026/call-for-competitions) for details).
 
 ## Venue
 
